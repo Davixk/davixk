@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="http://www.github.com/davixk"><img src="https://github-readme-stats.vercel.app/api?username=davixk&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="my GitHub stats" /></a>
 
 <!--
 **Davixk/davixk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
